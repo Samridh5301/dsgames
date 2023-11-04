@@ -1,0 +1,37 @@
+.navbar-brand {
+    margin-left: 22%;
+}
+
+.Slogan {
+    height: 1000px;
+    width: auto;
+    background-image: url("https://png.pngtree.com/background/20230417/original/pngtree-game-red-big-planet-picture-image_2445577.jpg");
+    background-size: cover;
+}
+
+.Slogan div {
+    color: wheat;
+    margin-left: 13%;
+    position: relative;
+    top: 35%;
+}
+
+.TopGames {
+    height: 500px;
+    width: auto;
+}
+
+.TopGames .tit {
+    color: wheat;
+    margin-left: 27%;
+}
+
+.CommonCard {
+    border: 2px solid wheat;
+}
+
+#container{
+    color: white;
+    margin-left: 30%;
+    margin-top: 05%;
+}
